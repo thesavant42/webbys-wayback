@@ -1,0 +1,2 @@
+*.disney.*/* | --opsec
+*.pixar.*/*.doc | --ext=.doc,.pdf

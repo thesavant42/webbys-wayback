@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+downloads/
+logs/
+*.zip
+*.json
+*.html
